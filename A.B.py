@@ -1,4 +1,4 @@
-try:# CodEr IZ 🄰🄰🄼🄸🅁 🄱🄰🄻🄾🅄🄲🄷
+try:# CodEr IZ AAMIR BALOUCH 
 # APOUN KI CHALTI HAI DUNIYA JALTI HAI
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
